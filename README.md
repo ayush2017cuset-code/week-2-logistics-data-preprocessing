@@ -1,4 +1,3 @@
-# week-2-logistics-data-preprocessing
 # Week 2 – Logistics Data Collection, Cleaning and Preprocessing
 
 ## Project Overview
